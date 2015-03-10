@@ -1,0 +1,247 @@
+{ "_id" : { "$oid" : "54ca53831b9655487430d58f" }, "country" : "AALAND ISLANDS (AX)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d590" }, "country" : "AFGHANISTAN (AF)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d591" }, "country" : "ALBANIA (AL)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d592" }, "country" : "ALGERIA (DZ)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d593" }, "country" : "AMERICAN SAMOA (AS)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d594" }, "country" : "ANDORRA (AD)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d595" }, "country" : "ANGOLA (AO)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d596" }, "country" : "ANGUILLA (AI)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d597" }, "country" : "ANTARCTICA (AQ)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d598" }, "country" : "ANTIGUA and BARBUDA (AG)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d599" }, "country" : "ARGENTINA (AR)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d59a" }, "country" : "ARMENIA (AM)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d59b" }, "country" : "ARUBA (AW)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d59c" }, "country" : "AUSTRALIA (AU)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d59d" }, "country" : "AUSTRIA (AT)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d59e" }, "country" : "AZERBAIJAN (AZ)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d59f" }, "country" : "BAHAMAS (BS)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5a0" }, "country" : "BAHRAIN (BH)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5a1" }, "country" : "BANGLADESH (BD)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5a2" }, "country" : "BARBADOS (BB)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5a3" }, "country" : "BELARUS (BY)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5a4" }, "country" : "BELGIUM (BE)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5a5" }, "country" : "BELIZE (BZ)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5a6" }, "country" : "BENIN (BJ)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5a7" }, "country" : "BERMUDA (BM)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5a8" }, "country" : "BHUTAN (BT)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5a9" }, "country" : "BOLIVIA (BO)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5aa" }, "country" : "BOSNIA and HERZRGOWINA (BA)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5ab" }, "country" : "BOTSWANA (BW)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5ac" }, "country" : "BOUVET ISLAND (BV)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5ad" }, "country" : "BRAZIL (BR)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5ae" }, "country" : "BRITISH INDOAN OCEAN TERRITORY (IO)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5af" }, "country" : "BRUNEI DARUSSALAM (BN)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5b0" }, "country" : "BULGARIA (BG)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5b1" }, "country" : "BURKINA FASO (BF)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5b2" }, "country" : "BURUNDI (BI)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5b3" }, "country" : "CAMBODIA (KH)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5b4" }, "country" : "CAMEROON (CM)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5b5" }, "country" : "CANADA (CA)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5b6" }, "country" : "CANARY ISLANDS (IC)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5b7" }, "country" : "CAPE VERDE (CV)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5b8" }, "country" : "CAYMAN ISLANDS (KY)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5b9" }, "country" : "CENTRAL AFRICAN REPUBLIC (CF)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5ba" }, "country" : "CEUTA (EA)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5bb" }, "country" : "CHAD (TD)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5bc" }, "country" : "CHILE (CL)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5bd" }, "country" : "CHINA (CN)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5be" }, "country" : "CHRISTMAS ISLAND (CX)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5bf" }, "country" : "COCOS (KEELING) ISLANDS (CC)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5c0" }, "country" : "COLOMBIA (CO)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5c1" }, "country" : "COMOROS (KM)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5c2" }, "country" : "CONGO, Republic of (CG)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5c3" }, "country" : "CONGO, The Democratic Republic of, (CD)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5c4" }, "country" : "COOK ISLANDS (CK)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5c5" }, "country" : "COSTA RICA (CR)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5c6" }, "country" : "COTE D'IVOIRE (CI)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5c7" }, "country" : "CROATIA (HR)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5c8" }, "country" : "CYPRUS (CY)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5c9" }, "country" : "CZECH REPUBLIC (CZ)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5ca" }, "country" : "DENMARK (DK)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5cb" }, "country" : "DJIBOUTI (DJ)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5cc" }, "country" : "DOMINICA (DM)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5cd" }, "country" : "DOMINICAN REPUBLIC (DO)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5ce" }, "country" : "EAST TIMOR (TP)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5cf" }, "country" : "ECUADOR (EC)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5d0" }, "country" : "EGYPT (EG)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5d1" }, "country" : "EL SALVADOR (SV)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5d2" }, "country" : "EQUATORIAL GUINEA (GQ)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5d3" }, "country" : "ERITREA (ER)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5d4" }, "country" : "ESTONIA (EE)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5d5" }, "country" : "ETHIOPIA (ET)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5d6" }, "country" : "FALKLAND ISLANDS (MALVINAS) (FK)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5d7" }, "country" : "FAROE ISLANDS (FO)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5d8" }, "country" : "FINLAND (FI)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5d9" }, "country" : "FIJI (FJ)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5da" }, "country" : "FRANCE (FR)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5db" }, "country" : "FRENCH GUIANA (GF)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5dc" }, "country" : "FRENCH POLYNESIA (PF)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5dd" }, "country" : "FRENCH SOUTHERN TERRITORIES (TF)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5de" }, "country" : "GABON (GA)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5df" }, "country" : "GAMBIA (GM)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5e0" }, "country" : "GEORGIA (GE)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5e1" }, "country" : "GERMANY (DE)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5e2" }, "country" : "GHANA (GH)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5e3" }, "country" : "GIBRALTAR (GI)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5e4" }, "country" : "GREECE (GR)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5e5" }, "country" : "GREENLAND (GL)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5e6" }, "country" : "GRENADA (GD)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5e7" }, "country" : "GUADELOUPE (GP)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5e8" }, "country" : "GUAM (GU)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5e9" }, "country" : "GUATEMALA (GT)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5ea" }, "country" : "GUERNSEY (GG)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5eb" }, "country" : "GUINEA (GN)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5ec" }, "country" : "GUINEA-BISSAU (GW)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5ed" }, "country" : "GUYANA (GY)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5ee" }, "country" : "HAITI (HT)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5ef" }, "country" : "HEARD and MCDonald Islands (HM)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5f0" }, "country" : "HOLY SEE - VATICAN CITY STATE (VA)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5f1" }, "country" : "HONDURAS (HN)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5f2" }, "country" : "HONG KONG (HK)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5f3" }, "country" : "HUNGARY (HU)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5f4" }, "country" : "ICELAND (IS)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5f5" }, "country" : "INDIA (IN)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5f6" }, "country" : "INDONESIA (ID)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5f7" }, "country" : "IRAN (Islamic Republic of) (IR)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5f8" }, "country" : "IRAQ (IQ)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5f9" }, "country" : "IRELAND (IE)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5fa" }, "country" : "ISLE OF MAN (IM)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5fb" }, "country" : "ISRAEL (IL)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5fc" }, "country" : "ITALY (IT)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5fd" }, "country" : "JAMAICA (JM)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5fe" }, "country" : "JAPAN (JP)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d5ff" }, "country" : "JERSEY (JE)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d600" }, "country" : "JORDAN (JO)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d601" }, "country" : "KAZAKHSTAN (KZ)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d602" }, "country" : "KENYA (KE)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d603" }, "country" : "KIRIBATI (KI)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d604" }, "country" : "KOREA, REPUBLIC OF (KR)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d605" }, "country" : "KUWAIT (KW)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d606" }, "country" : "KYRGYZSTAN (KG)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d607" }, "country" : "LAO People's Democratic Republic (LA)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d608" }, "country" : "LATVIA (LV)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d609" }, "country" : "LEBANON (LB)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d60a" }, "country" : "LESOTHO (LS)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d60b" }, "country" : "LIBERIA (LR)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d60c" }, "country" : "LIBYAN ARAB JAMAHIRIYA (LY)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d60d" }, "country" : "LIECHTENSTEIN (LI)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d60e" }, "country" : "LITHUANIA (LT)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d60f" }, "country" : "LUXEMBOURG (LU)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d610" }, "country" : "MACAU (MO)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d611" }, "country" : "MACEDONIA (Former Yugoslav Republic of) (MK)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d612" }, "country" : "MADAGASCAR (MG)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d613" }, "country" : "MALAWI (MW)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d614" }, "country" : "MALAYSIA (MY)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d615" }, "country" : "MALDIVES (MV)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d616" }, "country" : "MALI (ML)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d617" }, "country" : "MALTA (MT)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d618" }, "country" : "MARSHALL ISLANDS (MH)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d619" }, "country" : "MARTINIQUE (MQ)" }
+{ "_id" : { "$oid" : "54ca53831b9655487430d61a" }, "country" : "MAURITANIA (MR)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d61b" }, "country" : "MAURITIUS (MU)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d61c" }, "country" : "MAYOTTE (YT)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d61d" }, "country" : "MELILLA (EA)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d61e" }, "country" : "MEXICO (MX)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d61f" }, "country" : "MICRONESIA (Federated States of) (FM)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d620" }, "country" : "MOLDOVA, REPUBLIC OF (MD)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d621" }, "country" : "MONACO (MC)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d622" }, "country" : "MONGOLIA (MN)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d623" }, "country" : "MONTENEGRO (ME)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d624" }, "country" : "MONTSERRAT (MS)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d625" }, "country" : "MOROCCO (MA)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d626" }, "country" : "MOZAMBIQUE (MZ)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d627" }, "country" : "MYANMAR (MM)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d628" }, "country" : "NAMIBIA (NA)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d629" }, "country" : "NAURU (NR)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d62a" }, "country" : "NEPAL (NP)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d62b" }, "country" : "NETHERLANDS (NL)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d62c" }, "country" : "NETHERLANDS ANTILLES (AN)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d62d" }, "country" : "NEW CALEDONIA (NC)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d62e" }, "country" : "NEW ZEALAND (NZ)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d62f" }, "country" : "NICARAGUA (NI)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d630" }, "country" : "NIGER (NE)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d631" }, "country" : "NIGERIA (NG)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d632" }, "country" : "NIUE (NU)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d633" }, "country" : "NORFOLK ISLAND (NF)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d634" }, "country" : "NORTHERN MARIANA ISLANDS (MP)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d635" }, "country" : "NORWAY (NO)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d636" }, "country" : "OMAN (OM)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d637" }, "country" : "PAKISTAN (PK)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d638" }, "country" : "PALAU (PW)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d639" }, "country" : "PALESTINIAN TERRITORY, Occupied (PS)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d63a" }, "country" : "PANAMA (PA)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d63b" }, "country" : "PAPUA NEW GUINEA (PG)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d63c" }, "country" : "PARAGUAY (PY)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d63d" }, "country" : "PERU (PE)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d63e" }, "country" : "PHILIPPINES (PH)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d63f" }, "country" : "PITCAIRN (PN)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d640" }, "country" : "POLAND (PL)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d641" }, "country" : "PORTUGAL (PT)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d642" }, "country" : "PUERTO RICO (PR)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d643" }, "country" : "QATAR (QA)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d644" }, "country" : "REUNION (RE)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d645" }, "country" : "ROMANIA (RO)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d646" }, "country" : "RUSSIAN FEDERATION (RU)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d647" }, "country" : "RWANDA (RW)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d648" }, "country" : "SAINT BARTHELEMY (BL)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d649" }, "country" : "SAINT HELENA (SH)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d64a" }, "country" : "SAINT KITTS & NEVIS (KN)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d64b" }, "country" : "SAINT LUCIA (LC)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d64c" }, "country" : "SAINT PIEERE & MIQUELON (PM)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d64d" }, "country" : "SAINT VINCENT & THE GRENADINES (VC)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d64e" }, "country" : "SAMOA (WS)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d64f" }, "country" : "SAN MARINO (SM)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d650" }, "country" : "SAO TOME & PRINCIPE (ST)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d651" }, "country" : "SAUDI ARABIA (SA)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d652" }, "country" : "SENEGAL (SN)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d653" }, "country" : "SERBIA (RS)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d654" }, "country" : "SEYCHELLES (SC)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d655" }, "country" : "SIERRA LEONE (SL)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d656" }, "country" : "SINGAPORE (SG)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d657" }, "country" : "SLOVAKIA (SK)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d658" }, "country" : "SLOVENIA (SI)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d659" }, "country" : "SOLOMON ISLANDS (SB)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d65a" }, "country" : "SOMALIA (SO)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d65b" }, "country" : "SOUTH AFRICA (ZA)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d65c" }, "country" : "SOUTH GEORGIA & THE SOUTH SANDWICH ISLANDS (GS)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d65d" }, "country" : "SPAIN (ES)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d65e" }, "country" : "SRI LANKA (LK)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d65f" }, "country" : "ST. PIERRE and MIQUELON (PM)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d660" }, "country" : "SUDAN (SD)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d661" }, "country" : "SURINAME (SR)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d662" }, "country" : "SVALBARD & JAN MAYEN ISLANDS (SJ)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d663" }, "country" : "SWAZILAND (SZ)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d664" }, "country" : "SWEDEN (SE)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d665" }, "country" : "SWITZERLAND (CH)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d666" }, "country" : "SYRIAN ARAB REPUBLIC (SY)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d667" }, "country" : "TAIWAN (TW)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d668" }, "country" : "TAJIKISTAN (TJ)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d669" }, "country" : "TANZANIA (United Republic of) (TZ)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d66a" }, "country" : "THAILAND (TH)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d66b" }, "country" : "TOGO (TG)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d66c" }, "country" : "TOKELAU (TK)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d66d" }, "country" : "TONGA (TO)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d66e" }, "country" : "TRINIDAD AND TOBAGO (TT)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d66f" }, "country" : "TUNISIA (TN)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d670" }, "country" : "TURKEY (TR)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d671" }, "country" : "TURKMENISTAN (TM)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d672" }, "country" : "TURKS & CAICOS ISLANDS (TC)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d673" }, "country" : "TUVALU (TV)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d674" }, "country" : "UGANDA (UG)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d675" }, "country" : "UKRAINE (UA)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d676" }, "country" : "UNITED ARAB EMIRATES (AE)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d677" }, "country" : "UNITED KINGDOM (GB)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d678" }, "country" : "UNITED STATES (US)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d679" }, "country" : "UNITED STATES MINOR OUTLYING ISLANDS (UM)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d67a" }, "country" : "URUGUAY (UY)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d67b" }, "country" : "UZBEKISTAN (UZ)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d67c" }, "country" : "VANUATU (VU)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d67d" }, "country" : "VENEZUELA (VE)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d67e" }, "country" : "VIET NAM (VN)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d67f" }, "country" : "VIRGIN ISLANDS (BRITISH) (VG)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d680" }, "country" : "VIRGIN ISLANDS (U.S.) (VI)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d681" }, "country" : "WALLIS & FUTUNA ISLANDS (WF)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d682" }, "country" : "WESTERN SAHARA (EH)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d683" }, "country" : "YEMEN (YE)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d684" }, "country" : "ZAMBIA (ZM)" }
+{ "_id" : { "$oid" : "54ca538f1b9655487430d685" }, "country" : "ZIMBABWE (ZW)" }

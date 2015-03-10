@@ -3,14 +3,14 @@ var views = require('co-views');
 var parse = require('co-body');
 var monk = require('monk');
 var wrap = require('co-monk');
-var db = monk('localhost/library');
+var db = monk('localhost/countrylist');
 var co = require('co');
 
-var books = wrap(db.get('books'));
+var countries = wrap(db.get('countries'));
 
 // From lifeofjs
 co(function * () {
-  var books = yield books.find({});
+  var countries = yield countries.find({});
 });
 
 var render = views(__dirname + '/../views', {
@@ -27,40 +27,40 @@ module.exports.home = function * home(next) {
 module.exports.list = function * list(next) {
   if ('GET' != this.method) return yield next;
   this.body = yield render('list', {
-    'books': yield books.find({})
+    'countries': yield countries.find({})
   });
 };
 
 // This must be avoided, use ajax in the view.
 module.exports.all = function * all(next) {
   if ('GET' != this.method) return yield next;
-  this.body = yield books.find({});
+  this.body = yield countries.find({});
 };
 
 module.exports.fetch = function * fetch(id,next) {
   if ('GET' != this.method) return yield next;
   // Quick hack.
   if(id === ""+parseInt(id, 10)){
-    var book = yield books.find({}, {
+    var country = yield countries.find({}, {
       'skip': id - 1,
       'limit': 1
     });
-    if (book.length === 0) {
-      this.throw(404, 'book with id = ' + id + ' was not found');
+    if (country.length === 0) {
+      this.throw(404, 'country with id = ' + id + ' was not found');
     }
-    this.body = yield book;
+    this.body = yield country;
   }
 
 };
 
 module.exports.add = function * add(data,next) {
   if ('POST' != this.method) return yield next;
-  var book = yield parse(this, {
+  var country = yield parse(this, {
     limit: '1kb'
   });
-  var inserted = yield books.insert(book);
+  var inserted = yield countries.insert(country);
   if (!inserted) {
-    this.throw(405, "The book couldn't be added.");
+    this.throw(405, "The country couldn't be added.");
   }
   this.body = 'Done!';
 };
@@ -72,16 +72,16 @@ module.exports.modify = function * modify(id,next) {
     limit: '1kb'
   });
 
-  var book = yield books.find({}, {
+  var country = yield countries.find({}, {
     'skip': id - 1,
     'limit': 1
   });
 
-  if (book.length === 0) {
-    this.throw(404, 'book with id = ' + id + ' was not found');
+  if (country.length === 0) {
+    this.throw(404, 'country with id = ' + id + ' was not found');
   }
 
-  var updated = books.update(book[0], {
+  var updated = countries.update(country[0], {
     $set: data
   });
 
@@ -95,16 +95,16 @@ module.exports.modify = function * modify(id,next) {
 module.exports.remove = function * remove(id,next) {
   if ('DELETE' != this.method) return yield next;
 
-  var book = yield books.find({}, {
+  var country = yield countries.find({}, {
     'skip': id - 1,
     'limit': 1
   });
 
-  if (book.length === 0) {
-    this.throw(404, 'book with id = ' + id + ' was not found');
+  if (country.length === 0) {
+    this.throw(404, 'country with id = ' + id + ' was not found');
   }
 
-  var removed = books.remove(book[0]);
+  var removed = countries.remove(country[0]);
 
   if (!removed) {
     this.throw(405, "Unable to delete.");

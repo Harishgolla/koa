@@ -1,5 +1,5 @@
 'use strict';
-var books = require('./controllers/books');
+var countries = require('./controllers/countries');
 var compress = require('koa-compress');
 var logger = require('koa-logger');
 var serve = require('koa-static');
@@ -11,16 +11,16 @@ var app = module.exports = koa();
 // Logger
 app.use(logger());
 
-app.use(route.get('/', books.home));
-app.use(route.get('/books/', books.all));
-app.use(route.get('/view/books/', books.list));
-app.use(route.get('/books/:id', books.fetch));
-app.use(route.post('/books/', books.add));
-app.use(route.put('/books/:id', books.modify));
-app.use(route.delete('/books/:id', books.remove));
-app.use(route.options('/', books.options));
-app.use(route.trace('/', books.trace));
-app.use(route.head('/', books.head));
+app.use(route.get('/', countries.home));
+app.use(route.get('/countries/', countries.all));
+app.use(route.get('/view/countries/', countries.list));
+app.use(route.get('/countries/:id', countries.fetch));
+app.use(route.post('/countries/', countries.add));
+app.use(route.put('/countries/:id', countries.modify));
+app.use(route.delete('/countries/:id', countries.remove));
+app.use(route.options('/', countries.options));
+app.use(route.trace('/', countries.trace));
+app.use(route.head('/', countries.head));
 
 
 

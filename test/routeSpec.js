@@ -15,18 +15,18 @@ describe('Routes', function() {
         .expect(200, done);
     });
   });
-  describe('GET /books', function() {
+  describe('GET /countries', function() {
     it('should return 200', function(done) {
       request()
-        .get('/books')
+        .get('/countries')
         .expect('Content-Type', /json/)
         .expect(200, done);
     });
   });
-  describe('GET /books/notfound', function() {
+  describe('GET /countries/notfound', function() {
     it('should return 404', function(done) {
       request()
-        .get('/books/notfound')
+        .get('/countries/notfound')
         .expect(404, done);
     });
   });
